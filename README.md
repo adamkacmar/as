@@ -30,5 +30,4 @@ Benchmark: počty (images, successful, failed), časy na obrázok, `statistics` 
 ### Poznámka
 Model nie je zverejnený na GitHub. Bol nátrenový pomocou nástrojov z ďalšieho projektu: https://github.com/adamkacmar/bc-grape-disease
 
-Autori: Adam Kačmár a Martin Hnatko
-Rok: 2025
+Autori: Adam Kačmár, Martin Hnatko
