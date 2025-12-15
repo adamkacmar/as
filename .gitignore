@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+model_lr1e-05_bs32.pth
+.ipynb_checkpoints/
