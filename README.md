@@ -26,3 +26,6 @@ Benchmark: počty (images, successful, failed), časy na obrázok, `statistics` 
 ### Ďalšie súbory
 - `test_client.py` – jednoduchý tester endpointov
 - `benchmark_example.py` – single/batch benchmarky proti API
+
+### Poznámka
+Model nie je zverejnený na GitHub. Bol nátrenový pomocou nástrojov z ďalšieho projektu: https://github.com/adamkacmar/bc-grape-disease
